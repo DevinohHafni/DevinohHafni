@@ -1,16 +1,22 @@
-## Hi there 👋
+## printf("Hello, World!"); 🌟🌟🌟
 
-<!--
-**DevinohHafni/DevinohHafni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github profile! I'm **Devinoh Hafni G", a B.Tech student in Information Technology, passionate about **Artificial Intelligence** and **Machine Learning**.
 
-Here are some ideas to get you started:
+**" Knowledge blooms where Passion takes root. "**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+Embarking on my tech journey, I've built a solid foundation in programming - especially with **Python** and **Java** . I love to tackle complex challenges and craft innovative solutions which redefines possiblities in the tech world.
+
+## 🛠️ Skills & Hobbies
+**Programming Languages:** Python, Java, C
+**Tech Interests:** AI, Machine Learing, Data Science
+**Hobbies:** Sketching, Reading, Writing, 3d Modelling
+
+## 🤝 Let’s Connect!
+I am really excited to collaborate with fellow like minded tech enthusiasts and explore oppurtunities!!
+I'd love to team up with you.
+**LinkedIn:** www.linkedin.com/in/devinoh-hafni
+
+## 🔍Projects in the Pipeline
+Check out my projects and also stay tuned for thrilling projects that showcase my journey in AI and Data Science. Together, let’s innovate and inspire!
+
