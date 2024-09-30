@@ -1,7 +1,7 @@
 ## printf("Hello, World!"); 🌟🌟🌟
 
 
-Welcome to my Github profile! I'm **Devinoh Hafni G", a B.Tech student in Information Technology, passionate about **Artificial Intelligence** and **Machine Learning**.
+Welcome to my Github profile! I'm **Devinoh Hafni G**, a B.Tech student in Information Technology, passionate about **Artificial Intelligence** and **Machine Learning**.
 
 
 
